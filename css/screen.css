@@ -104,3 +104,9 @@ p.maintop {
 .navbar .nav > .active > a:focus {
   color: #ffffff;
 }
+/*Mailchimp Styling*/
+div.chimped {
+  max-width: 350px;
+  display: block;
+  margin: 0 auto;
+}
